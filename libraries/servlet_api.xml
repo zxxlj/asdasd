@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="servlet-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../电商网站/apache-tomcat-8.5.78/apache-tomcat-8.5.78/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../电商网站/apache-tomcat-8.5.78/apache-tomcat-8.5.78/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
